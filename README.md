@@ -1,6 +1,6 @@
 # QA Automation Portfolio
 
-![tests](https://github.com/YOUR-USERNAME/qa-automation-portfolio/actions/workflows/tests.yml/badge.svg)
+![tests](https://github.com/Shoshka14/qa-automation-portfolio/actions/workflows/tests.yml/badge.svg)
 
 Automated UI and API tests in Python, run in CI with GitHub Actions.
 
